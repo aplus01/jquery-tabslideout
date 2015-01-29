@@ -1,0 +1,21 @@
+{
+  "name": "jquery-tabslideout",
+  "version": "1.3.0",
+  "description": "William Paoli's TabSlideOut JQuery Plugin - http://www.building58.com/examples/tabSlideOut.html",
+  "main": "jquery.tabSlideOut.js",
+  "keywords": [
+    "jquery"
+  ],
+  "authors": [
+    "William Paoli"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.building58.com/examples/tabSlideOut.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
